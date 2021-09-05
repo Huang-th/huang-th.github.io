@@ -4,43 +4,24 @@
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
     <td width="75%">
-      <h1>张三</h1>
+      <h1>黄天浩</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>重庆邮电大学通信与信息工程学院</b></p>
+      <p><b>邮箱：2664250829@qq.com</b></p>
+      <p><b>地址：重庆市南岸区崇文路2号重庆邮电大学，邮编400065/b></p>
     </td>
   </tr>
 </table>
 
-### Markdown
+### 最新消息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 研究方向
 
-```markdown
-Syntax highlighted code block
+### 发表论文
 
-# Header 1
-## Header 2
-### Header 3
+### 获奖信息
+·2021年蓝桥杯全国软件和信息技术专业人才大赛重庆市一等奖
+·2021年MathorCup高校数学建模挑战赛—大数据竞赛二等奖
+·2021年“中青杯”全国大学生数学建模竞赛三等奖
+·2021年”华数杯”全国大学生数学建模竞赛三等奖
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Huang-th/huang-th.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
