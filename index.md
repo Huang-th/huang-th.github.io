@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="30%">
-      <img src="/hth.jpg" width="100%">
+      <img src="/hth.jpg" width="275" height="300">
     </td>
     <td width="70%">
       <h1>黄天浩</h1>
@@ -11,7 +11,6 @@
       <p><b>地址：重庆市南岸区崇文路2号重庆邮电大学，邮编400065</b></p>  
     </td>
   </tr>
-</table>
 
 ### 最新消息
  网站建设中...  
