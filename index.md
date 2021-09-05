@@ -1,7 +1,8 @@
+<p>
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/hth.jpg" width="100%">      % 插入证件照代码
+      <img src="/hth.jpg" width="100%">
     </td>
     <td width="75%">
       <h1>黄天浩</h1>
@@ -12,6 +13,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 ### 最新消息
 
