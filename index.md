@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
-    <td width="100px" height ="300px">
-      <img src="/hth.jpg" widt="216px" height ="256px">
+    <td width="30%" height ="100%">
+      <img src="/hth.jpg" widt="100%">
     </td>
-    <td width="700px" height ="100px">
+    <td width="70%" height ="100%">
       <h1>黄天浩</h1>
       <p><b>硕士研究生</b></p>
       <p><b>重庆邮电大学 通信与信息工程学院</b></p>
