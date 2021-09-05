@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="30%">
-      <img src="/hth.jpg" align="center">
+      <img src="/hth.jpg" width="100%">
     </td>
     <td width="70%">
       <h1>黄天浩</h1>
